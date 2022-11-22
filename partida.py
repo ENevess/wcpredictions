@@ -5,7 +5,7 @@ import random
 from scipy.stats import poisson 
 
 st.set_page_config(
-    page_title = 'World Cup Predictions - By Thor (S913)',
+    page_title = 'World Cup Predictions! ',
     page_icon = '⚽',
 )
 
@@ -88,7 +88,11 @@ def Jogo(selecao1, selecao2):
 ######## COMEÇO DO APP
 
 
-st.markdown("# 🏆 FIFA World Cup - Qatar 2022") 
+st.markdown("# 🏆 FIFA World Cup - Qatar 2022 ") 
+
+st.markdown("## Message from Thor (s913), the developer.")
+st.markdown("### To help everyone in the betting event during the world cup, I developed this WebApp. \nBasically, it is an outcome prediction model that uses Artificial Intelligence. \nSorry for any translation errors. I will review soon.")
+st.markdown('---')
 
 st.markdown("## ⚽Odds of the Matches")
 st.markdown('---')
