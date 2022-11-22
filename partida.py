@@ -90,7 +90,6 @@ def Jogo(selecao1, selecao2):
 
 st.markdown("# 🏆 FIFA World Cup - Qatar 2022 ") 
 st.markdown('---')
-st.caption("Olá")
 
 st.markdown("## ⚽Odds of the Matches")
 st.markdown('---')
