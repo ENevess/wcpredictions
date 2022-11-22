@@ -89,8 +89,9 @@ def Jogo(selecao1, selecao2):
 
 
 st.markdown("# 🏆 FIFA World Cup - Qatar 2022 ") 
+st.markdown('---')
 
-st.markdown("## Message from Thor (s913), the developer.")
+st.markdown("### Message from Thor (s913), the developer.")
 st.caption("### To help everyone in the betting event during the world cup, I developed this App.")
 st.caption("### This is a result prediction model that uses Artificial Intelligence based on the ranking of FIFA teams.")
 st.caption("### Sorry for any translation errors. I will review soon.")
